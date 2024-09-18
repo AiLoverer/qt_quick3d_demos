@@ -1,0 +1,21 @@
+# ninja log v6
+1	104	7464490158736447	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	f5d09cf4cc488f89
+1	104	7464490158736447	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	f5d09cf4cc488f89
+104	5021	7464490207908368	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	abf042cefc382f66
+104	5021	7464490207908368	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	abf042cefc382f66
+5021	8326	7464490208004706	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	a92f56ebbf5737bc
+5021	8326	7464490208004706	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	a92f56ebbf5737bc
+8326	8428	7464490241978163	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	bd40224acae702eb
+8326	8428	7464490241978163	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	bd40224acae702eb
+8428	8533	7464490243030783	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	a9f8d03b31729eb0
+8428	8533	7464490243030783	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	a9f8d03b31729eb0
+8533	8631	7464490244018776	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	892e2620222349d1
+8533	8631	7464490244018776	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	892e2620222349d1
+8631	8731	7464490245004959	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	48303c3067679230
+8631	8731	7464490245004959	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	48303c3067679230
+8731	8827	7464490245977326	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	c113bfeb54d55853
+8731	8827	7464490245977326	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	c113bfeb54d55853
+8827	8961	7464490247306358	CMakeFiles/ds-populate-complete	120a52f3656cf81b
+8827	8961	7464490247306358	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	120a52f3656cf81b
+8827	8961	7464490247306358	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	120a52f3656cf81b
+8827	8961	7464490247306358	D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	120a52f3656cf81b

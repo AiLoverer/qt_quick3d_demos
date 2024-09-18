@@ -1,0 +1,14 @@
+
+<RCC>
+<qresource>
+<file>qtquickcontrols2.conf</file>
+<file>SimpleFog.qmlproject</file>
+<file>SimpleFog/Constants.qml</file>
+<file>SimpleFog/DirectoryFontLoader.qml</file>
+<file>SimpleFog/EventListModel.qml</file>
+<file>SimpleFog/EventListSimulator.qml</file>
+<file>SimpleFog/qmldir</file>
+<file>SimpleFogContent/App.qml</file>
+<file>SimpleFogContent/Screen01.qml</file>
+</qresource>
+</RCC>

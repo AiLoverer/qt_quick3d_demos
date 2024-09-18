@@ -1,0 +1,4 @@
+module Main
+typeinfo View3DApp.qmltypes
+prefer :/qt/qml/Main/
+

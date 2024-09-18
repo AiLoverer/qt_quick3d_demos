@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Main">D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml/Main</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+/QtQuick/Studio/Utils/JsonListModel.qml
+/QtQuick/Studio/Utils/JsonBackend.qml
+/QtQuick/Studio/Utils/ChildListModel.qml

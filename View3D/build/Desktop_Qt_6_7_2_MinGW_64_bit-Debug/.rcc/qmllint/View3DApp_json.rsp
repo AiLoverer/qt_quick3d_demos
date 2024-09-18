@@ -1,0 +1,16 @@
+--bare
+-I
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-I
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml
+-I
+C:/Qt/6.7.2/mingw_64/./qml
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/configuration.qrc
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Main.qrc
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/View3DApp_raw_qml_0.qrc
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/main.qml
+--json
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/View3DApp_qmllint.json

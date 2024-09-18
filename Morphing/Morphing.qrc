@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>./asset_imports/asset_imports.txt</file>
+<file>./content/App.qml</file>
+<file>./content/fonts/fonts.txt</file>
+<file>./content/RealSlider.qml</file>
+<file>./content/Screen01.qml</file>
+<file>./content/suzanne.mesh</file>
+<file>./imports/Morphing/Constants.qml</file>
+<file>./imports/Morphing/DirectoryFontLoader.qml</file>
+<file>./imports/Morphing/EventListModel.qml</file>
+<file>./imports/Morphing/EventListSimulator.qml</file>
+<file>./imports/Morphing/qmldir</file>
+<file>./insight</file>
+<file>./main.qml</file>
+<file>./Morphing.qmlproject</file>
+<file>./qmlcomponents</file>
+<file>./qmlmodules</file>
+<file>./qtquickcontrols2.conf</file>
+<file>./src/app_environment.h</file>
+<file>./src/import_qml_components_plugins.h</file>
+<file>./src/import_qml_plugins.h</file>
+<file>./src/main.cpp</file>
+</qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/View3D/">
+    <file alias="Constants.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

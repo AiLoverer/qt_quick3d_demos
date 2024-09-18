@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asset_imports/asset_imports.txt</file>
+        <file>content/App.qml</file>
+        <file>content/fonts/fonts.txt</file>
+        <file>content/maps/OpenfootageNET_lowerAustria01-1024.hdr</file>
+        <file>content/Screen01.qml</file>
+        <file>CustomMaterial.qmlproject</file>
+        <file>imports/CustomMaterial/Constants.qml</file>
+        <file>imports/CustomMaterial/DirectoryFontLoader.qml</file>
+        <file>imports/CustomMaterial/EventListModel.qml</file>
+        <file>imports/CustomMaterial/EventListSimulator.qml</file>
+        <file>imports/CustomMaterial/qmldir</file>
+        <file>insight</file>
+        <file>main.qml</file>
+        <file>qmlcomponents</file>
+        <file>qmlmodules</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>src/app_environment.h</file>
+        <file>src/import_qml_components_plugins.h</file>
+        <file>src/import_qml_plugins.h</file>
+        <file>src/main.cpp</file>
+        <file>content/shaders/material_customlights.frag</file>
+        <file>content/shaders/material_customspecular.frag</file>
+        <file>content/shaders/material_distortion.vert</file>
+        <file>content/shaders/material_metallic.frag</file>
+        <file>content/shaders/material_simple.frag</file>
+        <file>content/shaders/material_transparent.frag</file>
+        <file>content/shaders/screen.frag</file>
+        <file>content/meshes/weirdShape.mesh</file>
+    </qresource>
+</RCC>

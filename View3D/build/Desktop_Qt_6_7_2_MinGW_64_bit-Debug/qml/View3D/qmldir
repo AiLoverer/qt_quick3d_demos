@@ -1,0 +1,11 @@
+module View3D
+linktarget View3Dplugin
+optional plugin View3Dplugin
+classname View3DPlugin
+typeinfo View3D.qmltypes
+prefer :/qt/qml/View3D/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

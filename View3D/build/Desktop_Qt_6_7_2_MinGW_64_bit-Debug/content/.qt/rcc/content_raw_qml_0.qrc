@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/content/App.qml</file>
+    <file alias="Screen01.ui.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">D:/xuqiang/gitee/qt_quick3d_demos/View3D/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

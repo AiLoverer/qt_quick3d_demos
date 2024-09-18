@@ -1,0 +1,14 @@
+
+<RCC>
+<qresource>
+<file>qtquickcontrols2.conf</file>
+<file>RuntimeLoader.qmlproject</file>
+<file>RuntimeLoader/Constants.qml</file>
+<file>RuntimeLoader/DirectoryFontLoader.qml</file>
+<file>RuntimeLoader/EventListModel.qml</file>
+<file>RuntimeLoader/EventListSimulator.qml</file>
+<file>RuntimeLoader/qmldir</file>
+<file>RuntimeLoaderContent/App.qml</file>
+<file>RuntimeLoaderContent/Screen01.ui.qml</file>
+</qresource>
+</RCC>

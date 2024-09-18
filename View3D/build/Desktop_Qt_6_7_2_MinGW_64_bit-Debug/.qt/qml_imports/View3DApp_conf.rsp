@@ -1,0 +1,15 @@
+-rootPath
+D:/xuqiang/gitee/qt_quick3d_demos/View3D
+-cmake-output
+-output-file
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/View3DApp_conf.cmake
+-importPath
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml/Main
+-importPath
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/configuration.qrc
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Main.qrc
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/View3DApp_raw_qml_0.qrc

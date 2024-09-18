@@ -1,0 +1,8 @@
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/imports/View3D/.qt/rcc/qmake_View3D.qrc
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/imports/View3D/.qt/rcc/View3D_raw_qml_0.qrc
+/qt/qml/View3D/Constants.qml
+/qt/qml/View3D/DirectoryFontLoader.qml
+/qt/qml/View3D/EventListModel.qml
+/qt/qml/View3D/EventListSimulator.qml

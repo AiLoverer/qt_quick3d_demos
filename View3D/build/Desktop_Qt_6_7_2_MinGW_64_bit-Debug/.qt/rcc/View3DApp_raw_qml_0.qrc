@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="main.qml">D:/xuqiang/gitee/qt_quick3d_demos/View3D/main.qml</file>
+  </qresource>
+</RCC>
+

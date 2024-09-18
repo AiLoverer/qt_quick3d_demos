@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">D:/xuqiang/gitee/qt_quick3d_demos/View3D/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

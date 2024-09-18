@@ -1,0 +1,15 @@
+
+<RCC>
+<qresource>
+<file>qtquickcontrols2.conf</file>
+<file>SubMeshs.qmlproject</file>
+<file>SubMeshs/Constants.qml</file>
+<file>SubMeshs/DirectoryFontLoader.qml</file>
+<file>SubMeshs/EventListModel.qml</file>
+<file>SubMeshs/EventListSimulator.qml</file>
+<file>SubMeshs/qmldir</file>
+<file>SubMeshsContent/App.qml</file>
+<file>SubMeshsContent/DistortedCube.qml</file>
+<file>SubMeshsContent/Screen01.qml</file>
+</qresource>
+</RCC>

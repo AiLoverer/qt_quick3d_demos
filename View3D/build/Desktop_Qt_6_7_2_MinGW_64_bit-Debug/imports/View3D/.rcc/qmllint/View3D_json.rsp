@@ -1,0 +1,17 @@
+--bare
+-I
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml
+-I
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qml
+-I
+C:/Qt/6.7.2/mingw_64/./qml
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/imports/View3D/.qt/rcc/qmake_View3D.qrc
+--resource
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/imports/View3D/.qt/rcc/View3D_raw_qml_0.qrc
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/Constants.qml
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/DirectoryFontLoader.qml
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/EventListModel.qml
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/imports/View3D/EventListSimulator.qml
+--json
+D:/xuqiang/gitee/qt_quick3d_demos/View3D/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/View3D_qmllint.json
